@@ -40,8 +40,8 @@ delay (1000);
 
 
 ### Favorite quotes:
->"Fall seven times and stand up eight" .
->"Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important". Bill Gates
+>"Fall seven times and stand up eight" .  
+>"Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important". Bill Gates  
 >"Success is the progressive realization of predetermined, worthwhile, personal goals". Paul J. Meyer
 
 
